@@ -1,0 +1,33 @@
+.card-datatable input[type="search"] {
+    margin-right: 12px;
+}
+.js_add_btn {
+    position: absolute;
+    z-index: 1;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.dataTables_info {
+    margin-left: 12px;
+}
+#datatable_paginate {
+    margin-right: 12px;
+}
+#birlik_datatable_paginate {
+    margin-right: 12px;
+}
+
+.cash-info {
+    font-size: 12px;
+    margin-bottom: 5px;
+    margin-top: 3px;
+}
+
+
+.check-success-icon {
+    position: absolute;
+    left: 5%;
+    top: 18%;
+    font-size: 27px;
+    color: #28C76F!important;
+}
